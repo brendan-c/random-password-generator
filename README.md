@@ -12,7 +12,7 @@ Generate a password based on a given set of parameters and length
 - `symbol`
 
 ### Changing the symbols
-Modify the line containing `const symbols = '`!@#$%^&*()_+-=[]{}|;\':",./<>?'`
+Modify the line containing ```const symbols = '`!@#$%^&*()_+-=[]{}|;\':",./<>?'```
 Include/exclude any symbols you desire in the string
 
 Note: Parameters must be contained in an array. The order you list the parameters does not matter.
